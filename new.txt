@@ -1,0 +1,5 @@
+CD: Every change that passes all stages of the pipeline and released to production environment without human intervention.
+git clone
+git add .
+git commit
+git push orgin main 
