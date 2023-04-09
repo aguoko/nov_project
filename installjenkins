@@ -1,0 +1,9 @@
+#!bin/bash
+
+sudo apt update -y
+sudo install jenkins -y
+sudo install maven -y
+
+sudo systemctl restart network.service
+
+I just made changes to this file
